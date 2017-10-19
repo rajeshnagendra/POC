@@ -1,0 +1,8 @@
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSite.Models\obj\Debug\BetssonGamingSite.Models.csprojResolveAssemblyReference.cache
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSite.Models\bin\Debug\BetssonGamingSite.Models.pdb
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSite.Models\obj\Debug\BetssonGamingSite.Models.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSite.Models\obj\Debug\BetssonGamingSite.Models.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSite.Models\bin\Debug\BetssonGamingSite.Models.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSite.Models\obj\Debug\BetssonGamingSite.Models.csprojResolveAssemblyReference.cache
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSite.Models\obj\Debug\BetssonGamingSite.Models.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSite.Models\obj\Debug\BetssonGamingSite.Models.pdb

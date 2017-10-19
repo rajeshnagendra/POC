@@ -1,0 +1,9 @@
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll.config
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.pdb

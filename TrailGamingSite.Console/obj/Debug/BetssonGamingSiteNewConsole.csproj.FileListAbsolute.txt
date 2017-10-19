@@ -1,0 +1,71 @@
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csproj.BetssonGamingSiteNewConsole.exe.config
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe.config
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.pdb
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csprojResolveAssemblyReference.cache
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.exe
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.pdb
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csproj.BetssonGamingSiteNewConsole.exe.config
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe.config
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.pdb
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csprojResolveAssemblyReference.cache
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.exe
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.pdb
+D:\Final\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe.config
+D:\Final\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.exe
+D:\Final\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.pdb
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe.config
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.exe
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.pdb
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.pdb
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csprojResolveAssemblyReference.cache
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csproj.BetssonGamingSiteNewConsole.exe.config
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.Models.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.Models.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe.config
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.exe
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSiteNewConsole.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.Models.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\Newtonsoft.Json.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csprojResolveAssemblyReference.cache
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.csproj.BetssonGamingSiteNewConsole.exe.config
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.exe
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\obj\Debug\BetssonGamingSiteNewConsole.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteNewConsole\bin\Debug\BetssonGamingSite.Models.pdb

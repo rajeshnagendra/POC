@@ -1,0 +1,60 @@
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll.config
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\GamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll.config
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\AutoMapper.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\AutoMapper.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\BetssonGamingSite\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll.config
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\AutoMapper.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\AutoMapper.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\Final Copy\BetssonGamingSite\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSiteDAL.csprojResolveAssemblyReference.cache
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll.config
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.pdb
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\AutoMapper.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\EntityFramework.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\AutoMapper.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\EntityFramework.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSiteDAL.csprojResolveAssemblyReference.cache
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.pdb
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.Models.dll
+C:\Users\11623\Downloads\Assignment-master\Assignment-master\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.Models.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll.config
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\AutoMapper.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.Models.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\EntityFramework.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\AutoMapper.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\EntityFramework.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSiteDAL.csprojResolveAssemblyReference.cache
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.dll
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\obj\Debug\BetssonGamingSite.DAL.pdb
+D:\For Rajesh\Practice\POC\Asisgnment 1\BetssonGamingSiteDAL\bin\Debug\BetssonGamingSite.Models.pdb
