@@ -10,7 +10,7 @@ namespace TrailGamingSite.Models.Model
         
         public string Name { get; set; } //Customer Name
         
-        public string Email { get; set; }
+        public string Email { get; set; } //email id
         public string Phone { get; set; }
         public DateTime RegisteredDate { get; set; }
         public bool Active { get; set; }
