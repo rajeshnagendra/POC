@@ -1,27 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Ninject;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TrailGamingSite.Models.Model;
-using Ninject;
 
 namespace TrailGamingSite.DAL.Repository
 {
-     public class CustomerClient //: ITrailSiteRepository<Customer>
+    public class CustomerClient
     {
         [Inject]
         public ITrailSiteRepository<Customer> _service { get; set; }
-       
-        public CustomerClient()
-        {
 
-        }       
-
-        //public CustomerClient(ITrailSiteRepository<Customer> service)
-        //{
-        //    _service = service;
-        //}
+        public CustomerClient() { }
 
         public IQueryable<Customer> GetAll()
         {
@@ -38,41 +26,16 @@ namespace TrailGamingSite.DAL.Repository
             _service.Insert(oEntityModel);
         }
 
-        public void AddFunds(Customer oEntityModel)
-        {
-            throw new NotImplementedException();
-        }
     }
 
-    public class TransactionClient //: ITrailSiteRepository<Transaction>
+    public class TransactionClient
     {
-        //private ITrailSiteRepository<Transaction> _service;
         [Inject]
         public ITrailSiteRepository<Transaction> _service { get; set; }
 
-
-        public TransactionClient(ITrailSiteRepository<Transaction> service)
-        {
-            _service = service;
-        }
         public void AddFunds(Transaction oEntityModel)
         {
             _service.AddFunds(oEntityModel);
-        }
-
-        public void Delete(Transaction oEntityModel)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IQueryable<Transaction> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Insert(Transaction oEntityModel)
-        {
-            throw new NotImplementedException();
         }
     }
 }
