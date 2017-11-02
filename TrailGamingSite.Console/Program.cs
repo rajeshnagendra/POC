@@ -48,7 +48,7 @@ namespace TrailGamingSiteNewConsole
                         PostCustomer().Wait();
                         break;
                     case 2:
-                        AddFunds().Wait();
+                        AddFund().Wait();
                         break;
                     case 3:
                         DeleteCustomer();
@@ -67,6 +67,47 @@ namespace TrailGamingSiteNewConsole
                 DisplayHeading();
                 GetCustomers().Wait();
             }           
+        }
+
+        /// <summary>
+        /// Executes to display customer details //Todo/ Formatting to be worked on :)
+        /// </summary>
+        /// <param name="oHttpClient"></param>
+        static async Task GetCustomers()
+        {
+            using (HttpClient oHttpClient = GetHTTPClientObject())
+            {
+                HttpResponseMessage oResponseMessage = await oHttpClient.GetAsync("api/getcustomers");
+                oResponseMessage.EnsureSuccessStatusCode();
+                if (oResponseMessage.IsSuccessStatusCode)
+                {
+                    var oCustomerDetails = await oResponseMessage.Content.ReadAsAsync<IEnumerable<CustomerItem>>();
+                    int iCount = 0;
+                    foreach (var item in oCustomerDetails)
+                    {
+                        iCount += 1;
+                        if (iCount == 1)
+                        {
+                            bNoRecords = false;
+                            Console.WriteLine("Customer Details");
+                            Console.WriteLine("-----------------------------------------------------------------------------------------------------");
+                            Console.WriteLine("CustomerId \t      Customer Name \t\t       Email \t\t\t Balance(in kr)");
+                        }
+                        decimal dcAmount = (from oTran in item.Transaction select oTran.Amount).Sum();
+                        Console.WriteLine("" + item.Id + "\t\t\t" + item.Name + "\t\t\t" + item.Email + "    \t\t\t" + dcAmount);
+                    }
+                    if (iCount == 0)
+                    {//TODO
+                        if (bNoRecords)
+                        {
+                            Console.WriteLine("There are no customers. Please Register Customer(s)\r");
+                            PostCustomer().Wait();
+                        }
+                    }
+                    Console.WriteLine("-----------------------------------------------------------------------------------------------------");
+                    DisplayMenuOptions();
+                }
+            }
         }
 
         /// <summary>
@@ -103,7 +144,7 @@ namespace TrailGamingSiteNewConsole
                     oCustomer.Transaction.Add(oTransaction);
                 }
                                
-                var oResponseMessage = await oHttpClient.PostAsJsonAsync("api/PostCustomer", oCustomer);
+                var oResponseMessage = await oHttpClient.PostAsJsonAsync("api/postcustomer", oCustomer);
                 oResponseMessage.EnsureSuccessStatusCode();
                 if (oResponseMessage.IsSuccessStatusCode)
                 {
@@ -121,48 +162,7 @@ namespace TrailGamingSiteNewConsole
 
             }
             Console.ReadLine();
-        }
-
-        /// <summary>
-        /// Executes to display customer details //Todo/ Formatting to be worked on :)
-        /// </summary>
-        /// <param name="oHttpClient"></param>
-        static async Task GetCustomers()
-        {
-            using (HttpClient oHttpClient = GetHTTPClientObject())
-            {
-                HttpResponseMessage oResponseMessage = await oHttpClient.GetAsync("api/GetCustomers");
-                oResponseMessage.EnsureSuccessStatusCode();
-                if (oResponseMessage.IsSuccessStatusCode)
-                {
-                    var oCustomerDetails = await oResponseMessage.Content.ReadAsAsync<IEnumerable<CustomerItem>>();
-                    int iCount = 0;
-                    foreach (var item in oCustomerDetails)
-                    {
-                        iCount += 1;
-                        if (iCount == 1)
-                        {
-                            bNoRecords = false;
-                            Console.WriteLine("Customer Details");
-                            Console.WriteLine("-----------------------------------------------------------------------------------------------------");
-                            Console.WriteLine("CustomerId \t      Customer Name \t\t       Email \t\t\t Balance(in kr)");
-                        }
-                        decimal dcAmount = (from oTran in item.Transaction select oTran.Amount).Sum();                            
-                        Console.WriteLine("" + item.Id + "\t\t\t" + item.Name + "\t\t\t" + item.Email + "    \t\t\t" + dcAmount);
-                    }
-                    if (iCount == 0)
-                    {//TODO
-                        if (bNoRecords)
-                        {
-                            Console.WriteLine("There are no customers. Please Register Customer(s)\r");
-                            PostCustomer().Wait();
-                        }
-                    }
-                    Console.WriteLine("-----------------------------------------------------------------------------------------------------");
-                    DisplayMenuOptions();
-                }
-            }
-        }
+        }        
 
         /// <summary>
         /// Executes to delete a customer
@@ -174,7 +174,7 @@ namespace TrailGamingSiteNewConsole
             int iCustomerId = Convert.ToInt32(Console.ReadLine());
             using (oHttpClient)
             {
-                HttpResponseMessage oResponseMessage = oHttpClient.DeleteAsync("api/DeleteCustomer/"+ iCustomerId.ToString()).Result;
+                HttpResponseMessage oResponseMessage = oHttpClient.DeleteAsync("api/deletecustomer/"+ iCustomerId.ToString()).Result;
                 oResponseMessage.EnsureSuccessStatusCode();
                 if (oResponseMessage.IsSuccessStatusCode)
                 {
@@ -190,7 +190,7 @@ namespace TrailGamingSiteNewConsole
         /// Executes when adding the funds // TODO// can call the same while withdrawing funds but with MINUS values
         /// </summary>
         /// <param name="oHttpClient"></param>
-        static async Task AddFunds()
+        static async Task AddFund()
         {
             using (HttpClient oHttpClient = GetHTTPClientObject())
             {
@@ -201,7 +201,7 @@ namespace TrailGamingSiteNewConsole
                 decimal dcFundAmount = Convert.ToDecimal(Console.ReadLine());    
                 oTransaction.Amount = dcFundAmount;
 
-                var oResponseMessage = await oHttpClient.PostAsJsonAsync("api/AddFunds", oTransaction);
+                var oResponseMessage = await oHttpClient.PostAsJsonAsync("api/addfund", oTransaction);
                 oResponseMessage.EnsureSuccessStatusCode();
                 if (oResponseMessage.IsSuccessStatusCode)
                 {

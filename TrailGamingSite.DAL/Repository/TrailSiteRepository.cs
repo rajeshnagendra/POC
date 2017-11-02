@@ -6,7 +6,7 @@ namespace TrailGamingSite.DAL.Repository
 
     class TrailSiteRepository<T> : ITrailSiteRepository<T> where T : class
     {
-        protected DbSet<T> _oDbSet = null;
+        protected IDbSet<T> _oDbSet = null;
         DbContext _oDbContext = null;
                    
         public TrailSiteRepository(DbContext oDbContext)

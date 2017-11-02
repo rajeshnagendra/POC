@@ -4,18 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TrailGamingSite.Models.Model;
+using Ninject;
 
 namespace TrailGamingSite.DAL.Repository
 {
-    public class CustomerClient : ITrailSiteRepository<Customer>
+     public class CustomerClient //: ITrailSiteRepository<Customer>
     {
-        private ITrailSiteRepository<Customer> _service;
+        [Inject]
+        public ITrailSiteRepository<Customer> _service { get; set; }
        
-        public CustomerClient(ITrailSiteRepository<Customer> service)
+        public CustomerClient()
         {
-            _service = service;
-        }
-        
+
+        }       
+
+        //public CustomerClient(ITrailSiteRepository<Customer> service)
+        //{
+        //    _service = service;
+        //}
+
         public IQueryable<Customer> GetAll()
         {
             return _service.GetAll();
@@ -37,9 +44,12 @@ namespace TrailGamingSite.DAL.Repository
         }
     }
 
-    public class TransactionClient : ITrailSiteRepository<Transaction>
+    public class TransactionClient //: ITrailSiteRepository<Transaction>
     {
-        private ITrailSiteRepository<Transaction> _service;
+        //private ITrailSiteRepository<Transaction> _service;
+        [Inject]
+        public ITrailSiteRepository<Transaction> _service { get; set; }
+
 
         public TransactionClient(ITrailSiteRepository<Transaction> service)
         {
