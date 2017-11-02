@@ -6,6 +6,7 @@ namespace TrailGamingSite.DAL.Repository
 {
     public class CustomerClient
     {
+
         [Inject]
         public ITrailSiteRepository<Customer> _service { get; set; }
 
